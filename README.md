@@ -8,3 +8,5 @@ Benefícios da alta disponibilidade e da escalabilidade na nuvem.
 Benefícios da confiabilidade e da previsibilidade na nuvem.
 Benefícios da segurança e da governança na nuvem.
 Benefícios da capacidade de gerenciamento na nuvem.
+Disponibilidade
+SLA
