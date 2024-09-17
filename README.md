@@ -30,3 +30,16 @@ Exemplo: Microsoft Office 365, Google Workspace.
 Vantagem: Facilidade de uso e acesso a partir de qualquer lugar com conexão à internet.
 Esses modelos permitem que as empresas escolham a melhor abordagem para suas necessidades específicas, seja para aumentar a agilidade, melhorar a segurança ou otimizar custos.
 
+##################################################################################################
+O dimensionamento de máquinas virtuais no Azure envolve ajustar a capacidade de computação para atender às necessidades específicas de sua aplicação. Aqui estão algumas opções e recursos disponíveis:
+
+Conjuntos de Dimensionamento de Máquinas Virtuais (VMSS):
+Permitem criar e gerenciar um grupo de VMs com balanceamento de carga.
+O número de instâncias de VM pode aumentar ou diminuir automaticamente em resposta à demanda ou a um agendamento definido12.
+Oferecem alta disponibilidade e resiliência ao distribuir VMs através de zonas de disponibilidade ou domínios de falha2.
+Redimensionamento Manual:
+Você pode redimensionar uma VM existente diretamente pelo portal do Azure.
+No painel da máquina virtual, selecione “Tamanho” para visualizar e escolher as opções de redimensionamento3.
+Dimensionamento Automático:
+O Azure permite configurar o dimensionamento automático para ajustar a capacidade de VMs com base em métricas personalizáveis, como uso de CPU ou memória14.
+Essas opções ajudam a garantir que suas aplicações tenham os recursos necessários para operar eficientemente, mesmo durante picos de demanda.
