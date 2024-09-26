@@ -43,3 +43,27 @@ No painel da máquina virtual, selecione “Tamanho” para visualizar e escolhe
 Dimensionamento Automático:
 O Azure permite configurar o dimensionamento automático para ajustar a capacidade de VMs com base em métricas personalizáveis, como uso de CPU ou memória14.
 Essas opções ajudam a garantir que suas aplicações tenham os recursos necessários para operar eficientemente, mesmo durante picos de demanda.
+
+#######################################################################################################
+
+O Azure oferece vários tipos de armazenamento para atender diferentes necessidades. Aqui estão os principais:
+
+1. **Armazenamento de Blobs**: Ideal para armazenar grandes quantidades de dados não estruturados, como texto ou dados binários. É dividido em quatro camadas: Premium, Hot, Cool e Archive, dependendo da frequência de acesso aos dados.
+
+2. **Armazenamento de Arquivos**: Fornece compartilhamentos de arquivos gerenciados na nuvem que podem ser acessados via SMB e NFS. É útil para migração de aplicativos legados que dependem de compartilhamentos de arquivos.
+
+3. **Armazenamento de Filas**: Permite a comunicação entre componentes de aplicativos distribuídos, armazenando grandes volumes de mensagens que podem ser acessadas de forma assíncrona.
+
+4. **Armazenamento de Tabelas**: Oferece armazenamento NoSQL para dados estruturados, permitindo acesso rápido e eficiente a grandes volumes de dados.
+
+5. **Discos Gerenciados**: Fornece armazenamento de discos persistentes para máquinas virtuais, com opções de desempenho e redundância.
+
+Fontes: 
+Armazenamento de Blobs do Azure. https://azure.microsoft.com/pt-br/products/storage/blobs/.
+Armazenamento de Arquivos do Azure. https://azure.microsoft.com/pt-br/products/storage/.
+Introdução ao Armazenamento do Microsoft Azure. https://learn.microsoft.com/pt-br/azure/storage/common/storage-introduction.
+Introdução aos tipos de Armazenamento do Microsoft Azure – Armazenamento em nuvem .... https://bing.com/search?q=Tipos+de+armazenamento+no+azure.
+Entenda os modelos de armazenamento de dados - Azure Application .... https://learn.microsoft.com/pt-br/azure/architecture/guide/technology-choices/data-store-overview.
+
+#######################################################################################################
+
