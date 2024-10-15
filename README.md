@@ -67,3 +67,21 @@ Entenda os modelos de armazenamento de dados - Azure Application .... https://le
 
 #######################################################################################################
 
+Entendendo sobre Segurança e Identidade na Azure
+
+Entender sobre segurança e identidade no Azure é fundamental para proteger recursos e dados na nuvem. O Azure oferece uma variedade de ferramentas e práticas recomendadas para garantir que suas identidades e acessos estejam seguros. Aqui estão alguns pontos-chave:
+
+1. **Identidade como Perímetro de Segurança**: Tratar a identidade como o perímetro de segurança primário é crucial. Isso significa centralizar o gerenciamento de identidade e habilitar logon único (SSO) para facilitar o acesso seguro¹.
+
+2. **Autenticação Multifator (MFA)**: Implementar MFA adiciona uma camada extra de segurança, exigindo que os usuários forneçam mais de uma forma de verificação para acessar recursos².
+
+3. **Controle de Acesso Baseado em Função (RBAC)**: Usar RBAC permite que você controle quem tem acesso a quais recursos, minimizando a exposição de contas privilegiadas².
+
+4. **Gerenciamento de Identidade Híbrida**: Integrar identidades locais com o Azure Active Directory (AAD) para uma gestão unificada e segura².
+
+5. **Monitoramento e Alertas**: Utilizar relatórios baseados em aprendizado de máquina, alertas e monitoramento de segurança para detectar atividades suspeitas e responder rapidamente a possíveis ameaças².
+
+###########################################################################################################
+
+
+
