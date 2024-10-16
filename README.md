@@ -118,6 +118,17 @@ Gerenciar políticas de acesso no Azure é essencial para garantir a segurança 
    - **Auditoria e Controle**: Monitore e audite as atividades de gerenciamento de acessos para identificar possíveis falhas de segurança.
    - **Políticas de Conformidade**: Garanta que as configurações de acesso estejam alinhadas com as melhores práticas de segurança e conformidade regulatória.
 
+###################################################################
+
+O Azure oferece várias ferramentas para facilitar a implantação de recursos e aplicativos na nuvem. Aqui estão algumas das principais:
+
+Azure CLI: Uma interface de linha de comando que permite gerenciar recursos do Azure diretamente do terminal. Ideal para automações e scripts.
+Azure PowerShell: Similar ao Azure CLI, mas utiliza cmdlets do PowerShell, permitindo a integração com scripts e automações em ambientes Windows.
+Templates ARM (Azure Resource Manager): Permitem definir a infraestrutura como código (IaC), criando definições reutilizáveis e consistentes para a implantação de recursos.
+Bicep: Uma linguagem de domínio específico (DSL) para ARM templates, que simplifica a escrita de infraestrutura como código.
+Azure DevOps: Oferece pipelines de CI/CD (Integração Contínua/Entrega Contínua) para automatizar o processo de build, teste e implantação de aplicativos.
+GitHub Actions: Integrado ao GitHub, permite criar fluxos de trabalho automatizados para build, teste e implantação de código.
+Azure Deployment Environments: Facilita a criação de ambientes de desenvolvimento consistentes e seguros, aplicando políticas e configurações adequadas
 
 
 
