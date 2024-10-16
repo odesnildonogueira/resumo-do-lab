@@ -10,7 +10,10 @@ Benefícios da segurança e da governança na nuvem.
 Benefícios da capacidade de gerenciamento na nuvem.
 Disponibilidade
 SLA
+
+
 #######################################################
+
 Os três principais modelos de serviços em nuvem são IaaS, PaaS e SaaS. Cada um oferece diferentes níveis de controle, flexibilidade e gerenciamento de infraestrutura de TI:
 
 IaaS (Infrastructure as a Service):
@@ -82,6 +85,24 @@ Entender sobre segurança e identidade no Azure é fundamental para proteger rec
 5. **Monitoramento e Alertas**: Utilizar relatórios baseados em aprendizado de máquina, alertas e monitoramento de segurança para detectar atividades suspeitas e responder rapidamente a possíveis ameaças.
 
 ###########################################################################################################
+
+ O gerenciamento de custos no Azure basicamente envolve monitorar e otimizar seus gastos na nuvem. Com a Ferramenta de Análise de Custos, você pode analisar seus custos em várias dimensões, como serviço, recurso, e localização.
+
+Entender os preços dos serviços: Conhecer as taxas dos serviços que você usa.
+
+Tags e Agrupamentos: Usar tags para organizar e rastrear seus recursos.
+
+Orçamentos e Alertas: Configurar orçamentos para monitorar e alertar sobre gastos.
+
+Entender os preços dos serviços: Cada serviço no Azure tem seu próprio modelo de preços. Alguns são baseados em uso (como armazenamento ou computação), outros em licenças. Entender como cada serviço é cobrado ajuda a prever seus custos.
+
+Tags e Agrupamentos: Tags são rótulos que você pode adicionar aos seus recursos no Azure. Elas ajudam a organizar e filtrar os recursos por projeto, departamento ou qualquer outra categorização que faça sentido para você. Isso facilita a análise de custos e a alocação de orçamentos.
+
+Orçamentos e Alertas: Configurar orçamentos no Azure permite que você defina limites de gastos. Você pode criar alertas que notificam quando seus gastos estão se aproximando ou ultrapassando o orçamento definido. Isso ajuda a evitar surpresas no final do mês.
+
+###############################################################################################################
+
+
 
 
 
