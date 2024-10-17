@@ -130,5 +130,8 @@ Azure DevOps: Oferece pipelines de CI/CD (Integração Contínua/Entrega Contín
 GitHub Actions: Integrado ao GitHub, permite criar fluxos de trabalho automatizados para build, teste e implantação de código.
 Azure Deployment Environments: Facilita a criação de ambientes de desenvolvimento consistentes e seguros, aplicando políticas e configurações adequadas
 
+###########################################################################
+
+O Azure oferece várias ferramentas de monitoramento e insights que ajudam a maximizar a disponibilidade e o desempenho de seus aplicativos e serviços. Entre essas ferramentas estão o Azure Monitor, que coleta e analisa dados de monitoramento de ambientes de nuvem e locais, e o Azure Monitor Insights, que fornece visualizações personalizadas e alertas para diferentes serviços. Essas ferramentas permitem que você acompanhe a performance de suas aplicações, bancos de dados e outras dependências, garantindo um funcionamento eficiente e contínuo.
 
 
